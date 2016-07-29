@@ -1,0 +1,13 @@
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\bin\Debug\LightwallDecalWizard.exe.config
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\bin\Debug\LightwallDecalWizard.exe
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\bin\Debug\LightwallDecalWizard.pdb
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\obj\Debug\LightwallDecalWizard.csprojResolveAssemblyReference.cache
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\obj\Debug\LightwallDecalWizard.Properties.Resources.resources
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\obj\Debug\LightwallDecalWizard.csproj.GenerateResource.Cache
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\obj\Debug\LightwallDecalWizard.exe
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\obj\Debug\LightwallDecalWizard.pdb
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\obj\Debug\LightwallDecalWizard.Form1.resources
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Black Venom\Documents\Peter\Programs\Visual Design\LightwallDecalWizard\LightwallDecalWizard\obj\Debug\LightwallDecalWizard.Operations_LineFillWindow.resources
